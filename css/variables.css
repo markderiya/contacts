@@ -1,0 +1,16 @@
+:root {
+--body-color: #1E1E1E;
+--window-bright: #FFFFFF;
+--border-opasity:  rgba(255, 255, 255, 0.5);
+--border-pic:  rgba(57, 72, 103, 0.7);
+--border-pic-5:  rgba(57, 72, 103, 0.05);
+--header-white: #F6F9FA;
+--header-dark: #263148;
+--window-dark: #212A3E;
+--window-small: #394867;
+--window-dark-panel: #263148;
+--text-basic: #212A3E;
+--text-input: #394867;
+--text-white: #FFFFFF;
+--input-dark: #2E3A54;
+}
